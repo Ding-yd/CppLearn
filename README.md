@@ -19,6 +19,8 @@ C++学习记录
 4. git push -u origin 分支名 //更新对应的仓库分支
 
 
+**Cmake
+cmake项目中新增库文件，需要find_packages 找文件,target_link_libraries连接文件
                             
                         
 **参考链接：https://blog.csdn.net/weixin_45178274/article/details/129632433**
